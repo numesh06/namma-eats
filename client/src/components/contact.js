@@ -72,10 +72,7 @@ const Contact = () => {
               }}
             >
               <div>
-                <a
-                  target="_blank"
-                  href="https://www.linkedin.com/in/nandhini-umesh-938b06263"
-                >
+                <a target="_blank" href="https://github.com/numesh06">
                   <img
                     src={require("../images/icons8-github.svg")}
                     alt="linkedin"
@@ -84,7 +81,10 @@ const Contact = () => {
                 </a>
               </div>
               <div>
-                <a target="_blank" href="https://github.com/numesh06">
+                <a
+                  target="_blank"
+                  href="https://www.linkedin.com/in/nandhini-umesh-938b06263"
+                >
                   <img
                     src={require("../images/icons8-linkedin.svg")}
                     alt="linkedin"
