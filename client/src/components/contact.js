@@ -38,10 +38,10 @@ const Contact = () => {
             <CardActionArea>
               <CardMedia
                 component="img"
-                alt=" Mihir Gupta"
+                alt="Nandhini Umesh"
                 height="300"
-                image={require("../images/Mihir.jpeg")}
-                title=" Mihir Gupta"
+                image={require("../images/nandhini.jpeg")}
+                title="Nandhini Umesh"
               />
               <CardContent className="contact_card">
                 <Typography
@@ -50,7 +50,7 @@ const Contact = () => {
                   component="h2"
                   style={{ fontFamily: "Mulish" }}
                 >
-                  Mihir Gupta
+                  Nandhini Umesh
                 </Typography>
                 <Typography
                   variant="body2"
@@ -58,7 +58,7 @@ const Contact = () => {
                   component="p"
                   style={{ fontFamily: "Poppins" }}
                 >
-                  Self taught MERN Stack Developer and Comptetive Programmer
+                  Aspiring Developer
                 </Typography>
               </CardContent>
             </CardActionArea>
@@ -74,7 +74,7 @@ const Contact = () => {
               <div>
                 <a
                   target="_blank"
-                  href="https://www.linkedin.com/in/mihir0699/"
+                  href="https://www.linkedin.com/in/nandhini-umesh-938b06263"
                 >
                   <img
                     src={require("../images/icons8-github.svg")}
@@ -84,18 +84,9 @@ const Contact = () => {
                 </a>
               </div>
               <div>
-                <a target="_blank" href="https://github.com/mihir0699">
+                <a target="_blank" href="https://github.com/numesh06">
                   <img
                     src={require("../images/icons8-linkedin.svg")}
-                    alt="linkedin"
-                    style={{ height: "5vh", width: "5vh" }}
-                  />
-                </a>
-              </div>
-              <div>
-                <a target="_blank" href="https://instagram.com/mihir_gupta_1">
-                  <img
-                    src={require("../images/icons8-instagram.svg")}
                     alt="linkedin"
                     style={{ height: "5vh", width: "5vh" }}
                   />
