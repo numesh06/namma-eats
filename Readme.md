@@ -33,9 +33,8 @@ Namma Eats, is an online platform to order food and avoiding the hassle of going
 - [Material UI](https://material-ui.com/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
 
-## API :man_technologist:
+## API 
 
 - [PayTM API](https://developer.paytm.com/docs/)
 - [Send Grid API](https://sendgrid.com/)
 - [Cloudinary API](https://cloudinary.com/)
-
