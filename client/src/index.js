@@ -9,7 +9,7 @@ import axios from "axios";
 import App from "./App";
 
 const rootElement = document.getElementById("root");
-axios.defaults.baseURL = "https://namma-eats.onrender.com";
+axios.defaults.baseURL = "https://namma-eats-2bap.onrender.com";
 ReactDOM.render(
   <React.StrictMode>
     <AuthState>
