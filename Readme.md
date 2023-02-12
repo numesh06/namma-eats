@@ -1,6 +1,5 @@
-# Welcome to Namma Eats!
-
-Namma Eats, is an online platform to order food and avoiding the hassle of going out or paying in cash. The users can opt for home delivery or take away as per thier choice and can pay thorugh cash or online methods (PayTM). 
+# NAMMA EATS
+Namma Eats, a food delivery web application built with an aspiration to utilize it for my own small-scale restaurant business that specifically caters Karnataka cuisines. The users can opt for home delivery or take away as per thier choice and can pay thorugh cash or online methods (PayTM).
 
 **Project Link** - ***https://namma-eats-2bap.onrender.com/***
 
