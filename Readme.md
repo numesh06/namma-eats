@@ -1,5 +1,5 @@
 # NAMMA EATS
-Namma Eats, a food delivery web application built with an aspiration to utilize it for my own small-scale restaurant business that specifically caters Karnataka cuisines. The users can opt for home delivery or take away as per thier choice and can pay through cash or online methods (PayTM).
+Namma Eats, a food delivery web application built with an aspiration to utilize it for my own small-scale restaurant business that specifically caters Karnataka cuisines. The users can opt for home delivery or take away as per thier choice and can pay through cash or online methods (Paytm).
 
 **Project Link** - ***https://namma-eats-2bap.onrender.com/***
 
